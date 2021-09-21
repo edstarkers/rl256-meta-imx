@@ -4,6 +4,8 @@ i.MX Linux Yocto Project BSP 5.4.47_2.2.0 Release
 Note this is release is not a production release.
 Please see the release notes for the quality statement for each baord.
 
+This is also a clone of met-imx specically pathed for allocating the UART4 to the A53 CPU.
+
 The following boards were tested in this release.
 
    * NXP i.MX 8MQuad EVK (imx8mqevk)
